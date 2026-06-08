@@ -1,0 +1,36 @@
+-- CREATE TABLE employees (
+--     id INT PRIMARY KEY,
+--     name VARCHAR(50),
+--     email VARCHAR(100),
+--     gender VARCHAR(10),
+--     date_of_birth DATE,
+--     salary INT
+-- );
+
+-- INSERT INTO employees VALUES
+-- (1, 'Aarav Sharma', 'aarav@gmail.com', 'Male', '2000-05-14', 35000),
+-- (2, 'Priya Verma', 'priya@gmail.com', 'Female', '1999-08-22', 42000),
+-- (3, 'Rahul Singh', 'rahul@gmail.com', 'Male', '2001-01-10', 30000),
+-- (4, 'Sneha Gupta', 'sneha@gmail.com', 'Female', '1998-12-05', 50000),
+-- (5, 'Vikas Kumar', 'vikas@gmail.com', 'Male', '2000-03-18', 38000),
+-- (6, 'Anjali Yadav', 'anjali@gmail.com', 'Female', '2002-07-09', 27000),
+-- (7, 'Rohan Mehta', 'rohan@gmail.com', 'Male', '1997-11-25', 55000),
+-- (8, 'Neha Joshi', 'neha@gmail.com', 'Female', '2001-06-30', 32000),
+-- (9, 'Karan Patel', 'karan@gmail.com', 'Male', '1999-09-15', 45000),
+-- (10, 'Pooja Mishra', 'pooja@gmail.com', 'Female', '2000-02-20', 39000),
+-- (11, 'Aditya Roy', 'aditya@gmail.com', 'Male', '1998-04-11', 48000),
+-- (12, 'Simran Kaur', 'simran@gmail.com', 'Female', '2001-10-17', 34000),
+-- (13, 'Mohit Jain', 'mohit@gmail.com', 'Male', '1999-01-29', 41000),
+-- (14, 'Kavya Nair', 'kavya@gmail.com', 'Female', '2002-05-13', 29000),
+-- (15, 'Arjun Das', 'arjun@gmail.com', 'Male', '1997-08-08', 60000),
+-- (16, 'Isha Kapoor', 'isha@gmail.com', 'Female', '2000-09-27', 36000),
+-- (17, 'Manish Chauhan', 'manish@gmail.com', 'Male', '1998-06-19', 47000),
+-- (18, 'Ritika Sen', 'ritika@gmail.com', 'Female', '2001-12-01', 33000),
+-- (19, 'Deepak Rana', 'deepak@gmail.com', 'Male', '1999-03-23', 44000),
+-- (20, 'Nidhi Arora', 'nidhi@gmail.com', 'Female', '2000-11-14', 37000),
+-- (21, 'Sahil Khan', 'sahil@gmail.com', 'Male', '2002-01-05', 28000),
+-- (22, 'Meera Iyer', 'meera@gmail.com', 'Female', '1998-07-21', 52000),
+-- (23, 'Yash Thakur', 'yash@gmail.com', 'Male', '2001-04-16', 31000),
+-- (24, 'Tanya Bansal', 'tanya@gmail.com', 'Female', '1999-10-09', 43000),
+-- (25, 'Harsh Pandey', 'harsh@gmail.com', 'Male', '2000-12-28', 40000);
+SELECT * FROM employees;
